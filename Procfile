@@ -1,1 +1,0 @@
-web: gunicorn energyproductionapp:server --timeout 200
