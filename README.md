@@ -8,7 +8,7 @@ This project aims to compare the production of all these types of energies by ea
 
 
 Membros do grupo:
-Mafalda Garcia
-Rui Ribeiro
-Simão Pereira
+Mafalda Garcia,
+Rui Ribeiro,
+Simão Pereira,
 Tiago Santos 
